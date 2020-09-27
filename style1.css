@@ -1,0 +1,190 @@
+.pg1 {
+  background-image: url("pexels-maria-tyutina-954599.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(8, 6, 6);
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 150%;
+  animation-timing-function: ease-in-out;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.img {
+  height: 10%;
+  width: 15%;
+  margin-left: 40%;
+  margin-right: 40%;
+  border: 5px solid rgb(35, 130, 207);
+  opacity: 80%;
+}
+
+.flex {
+  display: flex;
+  margin-left: 45%;
+  margin-right: 3%;
+}
+
+.pg2 {
+  background-image: url("pexels-francesco-ungaro-673648.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: orange;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+
+.aboutme {
+  padding-left: 5%;
+  font-variant: normal;
+  font-size: 90%;
+  background-color: rgba(252, 252, 252, 0.438);
+  color: rgba(65, 104, 177, 0.938);
+  text-align: left;
+  margin-right: 50%;
+}
+
+.pg3 {
+  background-image: url("pexels-steve-johnson-1269968.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+.para {
+  font-variant: none;
+  background-color: rgba(37, 25, 25, 0.699);
+  text-align: justify;
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-left: 20%;
+  color: rgb(252, 252, 252);
+}
+
+.pg4 {
+  background-image: url("pexels-ann-h-1762851.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 140%;
+}
+table,
+th,
+td {
+  border: 1px rgb(29, 46, 194);
+  background-color: rgba(38, 97, 148, 0.425);
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.pg5 {
+  background-image: url("pexels-jess-bailey-designs-1097930.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+.ul {
+  text-align: left;
+  margin-top: 6%;
+  background-color: rgba(5, 15, 24, 0.438);
+  margin-left: 50%;
+  line-height: 170%;
+  color: beige;
+}
+.pg6 {
+  background-image: url("pexels-tirachard-kumtanom-733857.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 4%;
+  padding-right: 4%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+.proj {
+  text-align: left;
+  background-color: rgba(36, 19, 35, 0.473);
+  color: white;
+}
+.pg7 {
+  background-image: url("pexels-jessica-lewis-583848.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: 10;
+  font-size: 150%;
+}
+.icons {
+  background-color: rgba(255, 255, 255, 0.425);
+  margin-left: 27%;
+  margin-right: 28%;
+}
+
+.email {
+  font-size: 90%;
+  color: white;
+  background-color: rgba(17, 19, 20, 0.63);
+
+  margin-top: 10%;
+}
+.flex2 {
+  background-color: rgba(17, 19, 20, 0.63);
+  display: flex;
+  padding-left: 40%;
+  margin-top: 3%;
+
+  font-size: 80%;
+}
