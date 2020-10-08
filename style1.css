@@ -176,12 +176,12 @@ td {
 .email {
   font-size: 90%;
   color: white;
-  background-color: rgba(17, 19, 20, 0.63);
+  background-color: rgba(17, 19, 60, 0.63);
 
   margin-top: 10%;
 }
 .flex2 {
-  background-color: rgba(17, 19, 20, 0.63);
+  background-color: rgba(17, 19, 60, 0.63);
   display: flex;
   padding-left: 40%;
   margin-top: 3%;
